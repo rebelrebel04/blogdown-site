@@ -17,7 +17,9 @@ body {
 }
 
 a {
-  color: var(--main-text);
+  text-decoration: none;
+  color: var(--main-sec);
+  /*color: var(--main-text);*/
 }
 
 .__h_instagram.card {
@@ -84,7 +86,8 @@ th { background: #101010; }
 .post .content h4{ color: var(--main-sec); }
 .post .content h5{ color: var(--main-sec); }
 .post .content h6{ color: var(--main-sec); }
-.post .content a:hover { color: var(--main-sec); }
+/*.post .content a:hover { color: var(--main-sec); }*/
+.post .content a:hover { text-decoration: underline; }
 .social-link:hover { color: var(--main-sec); }
 .nav-item-title:hover { color: var(--main-sec); }
 .tag a:hover { color: var(--main-sec); }
@@ -137,6 +140,7 @@ th { background: #101010; }
 }
 
 .post-list .title {
+  font-family: 'Comfortaa', cursive;  
   color: var(--main-sec);
 }
 
