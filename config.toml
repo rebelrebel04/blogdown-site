@@ -4,7 +4,7 @@ enableEmoji = true
 title = "orthog.nl"
 theme = "hugo-dusk"
 googleAnalytics = ""
-disqusShortname = "orthog-nl.disqus.com"
+disqusShortname = "orthog-nl"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #SectionPagesMenu = "main"
 
