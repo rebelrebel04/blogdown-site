@@ -28,3 +28,5 @@ vignettes/*.pdf
 .Renviron
 *.Rproj
 public/*
+*.jpg
+*.png

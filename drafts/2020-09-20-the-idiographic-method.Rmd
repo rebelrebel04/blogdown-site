@@ -1,0 +1,17 @@
+---
+title: The Idiographic Method
+author: Kurt R. Peters
+date: '2020-09-20'
+slug: the-idiographic-method
+categories:
+  - Philosophy
+tags: [Epistemology]
+---
+
+- Idiographic Method
+	- Reduced to its essence, the point of statistics is to separate real patterns — which presumably reflect an actual, underlying, repeatable process or *mechanism* that is producing the pattern — from random chance. Statistics is a tool to keep us from fooling ourselves into believing that a pattern is real rather than merely random.
+	- The entire apparatus of statistics is designed to separate signal from noise. The most common solution to this challenge is repeated observation: by leveraging the law of large numbers, random noise should cancel itself out in aggregate and reveal any hidden signal, like sifting out silt to find gold.
+		- Oversimplifying a bit, there are two key parameters in this method: sample size and effect size. (///graphic: small effects -> big sample; big effects -> small sample) Traditionally science has relied on driving sample size as needed to find effects, in part because effect sizes are often unknown at the outset of a research program. If you drive sample size high enough you will start to have the power to find even tiny effects. This is where the question of “statistical” vs. “clinical” significance comes in: Are effects so small that they have little clinical — read: practical — significance useful even if they achieve the threshold for statistical significance (i.e., have a low chance of being random)?
+		- The answer to that question depends entirely on context, because context determines what is considered clinically significant. For example, a drug that reliably reduces the relative risk of metastatic cancer by even a tiny amount might be considered clinically useful. However, in the context of amateur athletic performance, effects so small that they require truckloads of observations to ferret them out are eo ipso *not* useful. And this is the key to understanding why the idiographic method does not require jettisoning statistics: because within the context in which we are applying it — amateur athletic performance — we don’t really care about tiny effects. What we want are the large, hit-you-over-the-head, high ROI effects. And due to the inverse relation between sample size and effect size in determining statistical significance, the happy result is that if you are solely focused on hunting for large effects, the demands on sample size are greatly reduced.
+			- Side note: To de-simplify my above oversimplification a bit, we need to factor variance into the sample size / effect size relationship. My claim above that large effects decrease need for sample size is only true insofar as variance is independent of effect size — i.e., if the variance of the outcome measure increases with the magnitude of the effect, this will still increase demands on sample size needed to wash out that additional noise. So my assumption here is that we are dealing with large effects that are not heavily context-dependent (because it is the variance produced by these interactions that will get bucketed as noise in a simple bivariate model… which suggests the utility of experimental or statistical control, but that’s a topic for another day)
+		- ///look into the small-sample size literature — anything I can link to as a source?

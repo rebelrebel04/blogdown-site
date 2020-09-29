@@ -44,7 +44,7 @@ li {
 }
 
 p {
-  line-height: 1.5em;
+  line-height: 1.75em;
 }
 
 h1 { font-size: 2em;
@@ -94,12 +94,17 @@ nav {
   color: #808080;
 }
 
+.nav-item:hover {
+  text-decoration: none;
+}
+
 .nav-item-title {
   padding: 0.2em;
+  color: var(--dark-text);
 }
 
 .nav-item-title:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 pre {
@@ -129,11 +134,18 @@ th, td {
 /* site title  */
 .siteTitle {
   font-family: 'Comfortaa', cursive;
+  color: var(--dark-text);
   font-size: 2.5em;
   margin-bottom: 0.2em;
 }
 
 .siteTitle a {
+  color: var(--dark-text);
+  text-decoration: none;
+}
+
+.siteTitle a:hover {
+  color: var(--main-sec);
   text-decoration: none;
 }
 
@@ -148,8 +160,8 @@ th, td {
 
 .post .title {
   font-family: 'Comfortaa', cursive;
-  font-size: 24px;
-  color: #D0D0D0;
+  font-size: 28px;
+  color: var(--main-sec);
   text-align: left;
   padding-left : 0.5em;
   padding-right : 0.5em;
@@ -172,11 +184,15 @@ th, td {
 }
 
 .post .content h1{
+  font-family: 'Comfortaa', cursive;  
   margin: 1em 0em;
+  font-size: 20px;
 }
 
 .post .content h2{
+  font-family: 'Comfortaa', cursive;    
   margin: 1em 0em;
+  font-size: 16px;
 }
 
 .post .content h3{
@@ -403,7 +419,7 @@ th, td {
 }
 
 .post-footer-data .category a {
-  text-decoration: none;
+  /*text-decoration: none;*/
 }
 
 .post-footer-data .series-name {

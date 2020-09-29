@@ -1,0 +1,38 @@
+---
+title: 'Category Errors: The Cardinal Sin of Sense-Making?'
+author: Kurt R. Peters
+date: '2020-09-22'
+slug: category-errors-the-cardinal-sin-of-sense-making
+categories:
+  - Philosophy
+tags: []
+_build:
+  render: true
+  list: true
+---
+
+![](/post/2020-09-05-the-scope-of-moral-regard_files/pine-watt-3_Xwxya43hE-unsplash_small.jpg)
+
+A theory: The root cause of most of our frustrations is forcing a mental model onto an event that doesn't fit. That is, we make [category errors](https://plato.stanford.edu/entries/category-mistakes/).
+
+Religion is a paradigm example of this, whereby humans force the concept of morality onto natural events, when natural events are simply (and indeed, by definition) not the types of things to which morality applies. *Morality is a human construct*, and it does not exist independently of our own supposition. Put differently, in the absence of human existence, morality would not exist. The concept of morality hinges on the concept of free choice ("ought implies can") and free choice, in the sense intended here -- of volition in the face of conceived alternative consequences -- does not exist in nature.[^1]
+
+The point is that generally speaking, religion is an attempt to force natural events to conform to a moral frame of reference, which is simply a category error. Among other things, this deflates the motivation for [theodicy](https://plato.stanford.edu/entries/evil/), because <span class="hilite">the fact that "bad things happen" (whether or not to good people) is already a mistaken formulation</span>: *things* -- in the sense of natural events or happenstance -- are neither good nor bad; it simply makes no conceptual sense to ascribe natural events a moral quality, just as it makes no conceptual sense to ascribe natural events a mood. There is no such thing as "angry weather", although the mixing of mental models in this way can produce colorful figures of speech -- hence the generative power of analogy and metaphor; but it is still a mistake to reify a metaphor that mixes mental models. 
+
+# The Use and Abuse of Analogical Thinking
+
+This is a particularly easy trap to fall into, because metaphor is such a powerful mode of understanding the world: by extending a known mental model onto a new phenomenon, we can immediately gain some understanding -- and control -- over it. But whether or not that mental model is actually *explanatory* with respect to the new phenomenon, or merely heuristically predictive, is an empirical question, and in some ways this is just the purpose of science: to validate which of many alternative mental models (aka explanations, hypotheses, etc.) applied to a phenomenon is the most accurate. And it is just in the ruling out of the existing mental models that we are forced to branch out (orthogonally, as it were) to form *new* mental models, as famously as occurred in the bifurcation of physics into classical and quantum (what Kuhn popularized as "paradigm shifts"). Probing an analogy for its points of failure is perhaps the surest way to forge new conceptual ground, because these failures eventually force us to construct new cognitive tools -- mental models -- to explain the data.
+
+# The Two Major Modes of Sense-Making: Mysticism vs. Mechanism
+
+So many of our emotional hangups boil down to category errors, yet they are difficult to move past because the error is baked into one's frame of reference, rather than being observable within it -- and hence cannot be resolved within it. The solution is objectively obvious but subjectively invisible: to change the frame you use to understand a situation so that you are not ascribing conceptually inapplicable qualities to the event in question. Natural death is happenstance and does not admit of any sense of "fairness" or "justice." Perhaps the cardinal sin of category errors, the one responsible for vast amounts of self-inflicted suffering, is the dogged belief that the world is just. People will engage in tortuous mental gymnastics to preserve this core belief, and it may even be the driving motivation behind religious belief itself: after all, the world only requires being made sense of if you assume that there is any sense to the order of natural events in the first place. Religious belief springs from the desire to make sense of natural events using a moral framework; conversely, science springs from the desire to make sense of natural events using a rational/empirical framework. The difference is compounded by the choice of sense-making machinery: mysticism (faith in hidden powers) vs. mechanism (evidence for material connections).
+
+Nevertheless, in both cases the adherent assumes that natural events have an "order" that admits to "being made sense of." Here we are drilling down to the bedrock of sanity, because if we forego this assumption -- that the events we collectively experience as *our lives* have some kind of underlying order, sequence, or interconnection -- the alternative is to view the world and our lives as chaotic, fundamentally unexplainable, and impossible to make sense of. Our brains balk at this reflexively out of self-preservation, because embracing this belief would undermine every tenet of mental health, precluding any concept of agency or security, much less well being.
+
+# Is Our Moral Lens an Evolutionary Tradeoff?
+
+Interestingly, for nearly anyone who has experienced the death of a loved one, it becomes immediately obvious that cognitively accepting that the world is not just (nor unjust) has virtually no bearing on one's emotional response to that death. This, I take it, is simply one more example of the fact that emotion acts independently of rationality, and cannot be controlled by it; and further, that our emotions are hardwired to respond within a moral frame of reference, as evidenced by the deep suffering we instictively attribute to the "unfair," "unjust," or "undeserved" death of a loved one. It is said that "humans are moral creatures" and this may be the kernel of truth there -- that by evolving to rely on cooperation as our fitness advantage, we have a moral lens baked into our perception of the world[^2], and perhaps for that reason are so ready to over-attribute agency and morality to natural events, while at the same time failing to recognize that none but human actions properly admit of being evaluated through a moral lens.
+
+[^1]: An argument can be made that this concept of free choice is continuous rather than binary: e.g., to the extent that ravens can conceive of the concequences of alternative actions, they exercise volition when executing one of those actions, and therefore are subject to a proto-moral sense of responsibility for having so chosen; this is the thrust of Dennett's "freedom evolves" thesis: that the more readily you can conceive of alternative consequences to your actions, the more opportunities you have to choose, and hence more freedom.
+
+[^2]: For example, [De Waal (2014)](https://science.sciencemag.org/content/346/6207/1251776) suggests that "inequity aversion" is an adaptive trait in species that rely on cooperation for evolutionary advantage.

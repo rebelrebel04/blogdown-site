@@ -5,8 +5,12 @@
 
 :root {
     --main-bg-color: #101010;
-    --main-text: #d8d8d8;
-    --main-sec: #007DFF; /* main secondary color for the site */
+    --main-text: #F7F3F5; /* Snow */
+    --dark-text: #2d2d2d;
+    --main-sec: #007DFF; /* main secondary color for the site: Azure */
+    --atomic-tangerine: #FF934F;
+    --link-downstate: #f9ffde; /* Pale Mindaro */
+    --link-hover: #E0F877; /* Mindaro */
     --code-quote-bg: #1D1F21; /* background color for quotes and code blocks */
     --copyright: #808080; /* copyright text color */
 }
@@ -18,8 +22,30 @@ body {
 
 a {
   text-decoration: none;
-  color: var(--main-sec);
+  color: var(--link-downstate);
   /*color: var(--main-text);*/
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: none;
+}
+
+.nav-item a:hover {
+  text-decoration:none;
+}
+
+.hilite {
+  font-weight: bold;
+  /*background-color: #007dff6b;*/
+  /*text-decoration-line: underline;
+  text-decoration-style: double;
+  text-decoration-color: #f7f3f569;*/
+}
+
+.footnotes {
+  font-size: 12px;
+  color: #bbbbbb;
 }
 
 .__h_instagram.card {
@@ -67,9 +93,11 @@ table { margin: 1em auto; border-collapse: collapse; }
 table, th, td { border: 1px solid #5C5C5C; }
 tr:hover { background: #1D1F21; }
 th { background: #101010; }
+/*
 .siteTitle a {
   color: var(--main-sec);
 }
+*/
 
 .post {
   background: #202020;
@@ -87,7 +115,7 @@ th { background: #101010; }
 .post .content h5{ color: var(--main-sec); }
 .post .content h6{ color: var(--main-sec); }
 /*.post .content a:hover { color: var(--main-sec); }*/
-.post .content a:hover { text-decoration: underline; }
+.post .content a:hover { background-color: #e0f87726; }
 .social-link:hover { color: var(--main-sec); }
 .nav-item-title:hover { color: var(--main-sec); }
 .tag a:hover { color: var(--main-sec); }
@@ -107,11 +135,8 @@ th { background: #101010; }
 }
 
 .post-preview .title a {
+  font-family: 'Comfortaa', cursive;    
   color: var(--main-sec);
-}
-
-.post-preview .title a:hover {
-  background-color: #303030
 }
 
 .post-footer-data {
@@ -134,10 +159,12 @@ th { background: #101010; }
   border-top: 1px dotted #303030;
 }
 
+/*
 .content-item a:hover{
   text-decoration: underline;
   color: var(--main-sec);
 }
+*/
 
 .post-list .title {
   font-family: 'Comfortaa', cursive;  
@@ -145,18 +172,21 @@ th { background: #101010; }
 }
 
 .rmore {
-  color: var(--main-text);
+  color: #aaaaaa;
+  font-size: 14px;
 }
 
 .rmore a {
-  background: #303030;    
+  background: #303030;
   /*background: var(--main-bg-color);*/
   border: 1px solid #303030;
+  /*color: var(--dark-text);*/
 }
 
 .rmore a:hover {
   background: #202020;
-  color: var(--main-text);
+  color: var(--main-sec);
+  text-decoration: none;
 }
 
 .terms {

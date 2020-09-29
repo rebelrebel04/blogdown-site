@@ -50,5 +50,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     alt = "Logo"
 
 [params.meta]
-  keywords = "blog, tech, data, fitness"
+  keywords = "blog, philosophy, tech, data, fitness"
   description = "Personal blog."
