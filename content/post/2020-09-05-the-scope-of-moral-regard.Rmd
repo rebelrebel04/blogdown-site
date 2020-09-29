@@ -4,10 +4,9 @@ author: Kurt R. Peters
 date: '2020-09-05'
 slug: the-scope-of-moral-regard
 categories:
-  - Philosophy
 tags: []
 _build:
-  render: true
+  render: false
   list: false
 ---
 

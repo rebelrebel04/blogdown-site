@@ -9,11 +9,13 @@ tags: [epistemology, morality, evolution, mental-health]
 _build:
   render: true
   list: true
+editor_options: 
+  chunk_output_type: console
 ---
 
 ![](/post/2020-09-05-the-scope-of-moral-regard_files/pine-watt-3_Xwxya43hE-unsplash_small.jpg)
 
-A theory: The root cause of most of our frustrations is forcing a mental model onto an event that doesn't fit. That is, we make [category errors](https://plato.stanford.edu/entries/category-mistakes/).
+Theory: The root cause of most of our frustrations is forcing a mental model onto an event that doesn't fit. That is, we make [category errors](https://plato.stanford.edu/entries/category-mistakes/).
 
 Religion is a paradigm example of this, whereby humans force the concept of morality onto natural events, when natural events are simply (and indeed, by definition) not the types of things to which morality applies. *Morality is a human construct*, and it does not exist independently of our own supposition. Put differently, in the absence of human existence, morality would not exist. The concept of morality hinges on the concept of free choice ("ought implies can") and free choice, in the sense intended here -- of volition in the face of conceived alternative consequences -- does not exist in nature.[^1]
 
