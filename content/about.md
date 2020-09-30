@@ -13,6 +13,21 @@ Orthogonal thinking is not compromise; it is not settling for a lesser evil betw
 
 All this is to say: my goal here is to raise more questions than answers. Questions that force divergent thinking, that drive a wedge into my (and hopefully your) conceptual scheme, and then lever it apart to let new ideas rush in. Taking a philosophical crowbar, as it were, to a rigid mind.
 
+# Topics
+
+* Philosophy, Science, Mental Health and "Right Living"
+  * Epistemology
+  * Philosophy of Science, Philosophy of Mind
+  * Psychology (Social, Cognitive, Evolutionary)
+  * Morality
+  * Evolution & Individuality
+* Physical Health
+  * Anatomy & Physiology
+  * Metabolism & Bioenergetics
+  * Physical Fitness & Performance (esp. [GST](https://tim.blog/2016/05/09/the-secrets-of-gymnastic-strength-training/))
+  * Nutrition
+  * Longevity
+
 # Stipulations
 
 There are a few things I will take for granted along the way:
