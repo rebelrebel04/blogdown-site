@@ -1,6 +1,6 @@
 ---
 title: The Moral Asymmetry of Procreation
-author: Kurt R. Peters
+author: 
 date: '2020-09-22'
 slug: the-moral-asymmetry-of-procreation
 categories:

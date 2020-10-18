@@ -208,6 +208,7 @@ th, td {
 }
 
 .post .content p{
+  text-align: justify;
 }
 
 .post-footer-data {
