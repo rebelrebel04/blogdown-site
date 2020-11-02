@@ -1,12 +1,14 @@
 ---
 title: A Thought Experiment
 author: Kurt R. Peters
-date: '2020-06-28'
+date: '2020-11-01'
 slug: a-thought-experiment
 categories:
-  - BodyLanguage
-tags:
-  - intro
+  - TheBodyLanguages
+tags: [physiology, fitness]
+_build:
+  render: true
+  list: true
 ---
 
 This series is an exploration of a simple thought experiment: 
