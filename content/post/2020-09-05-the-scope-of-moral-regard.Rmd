@@ -1,6 +1,6 @@
 ---
 title: The Scope of Moral Regard
-author: Kurt R. Peters
+author:
 date: '2020-09-05'
 slug: the-scope-of-moral-regard
 categories:
